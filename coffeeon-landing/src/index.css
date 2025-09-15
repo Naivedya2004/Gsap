@@ -738,13 +738,8 @@ select.form-control {
 }
 
 /* END PERPLEXITY DESIGN SYSTEM */
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
 
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+/* Removed Tailwind directives to prevent unknown at-rule errors */
 
 /* Custom CSS for premium coffee experience - updated to match design system */
 * {
